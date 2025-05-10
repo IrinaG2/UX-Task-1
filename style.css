@@ -1,4 +1,5 @@
 body {
+  font-size: 13pt;
   color: #155263;
   background-color: #ffebbb;
   margin: 0;
@@ -27,14 +28,34 @@ a:hover {
 a.active {
   color: white;
 }
+h1 {
+  text-align: center;
+  margin: 30px;
+}
+table {
+  padding: 30px;
+}
+td {
+  padding: 20px;
+}
+img {
+  width: 500px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 5px #ff9a3c;
+}
+p {
+  text-align: justify;
+  line-height: 2;
+}
 footer {
   background-color: #ff9a3c;
-
-  position: fixed;
+  padding: 5px;
+  position: static;
   bottom: 0px;
   width: 100%;
 }
 footer li {
+  font-size: 13pt;
   font-weight: 800;
   list-style: none;
   display: inline;
