@@ -39,6 +39,7 @@ table {
 td {
   padding: 20px;
 }
+
 img {
   width: 500px;
   border-radius: 5px;
@@ -47,9 +48,11 @@ img {
 p {
   text-align: justify;
   line-height: 2;
+  margin: 0px 80px;
 }
 .sightseeing {
   width: 300px;
+
   text-align: center;
   font-weight: 800;
   font-size: 16pt;
@@ -60,6 +63,12 @@ p {
   margin: 0px 10px;
   padding: 0px;
 }
+.lodgPic {
+  width: 500px;
+  height: 300px;
+  margin: 30px;
+}
+
 .topSign {
   text-align: right;
   margin-right: 150px;
