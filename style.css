@@ -74,6 +74,21 @@ button:hover {
   color: #ff9a3c;
   background-color: #155263;
 }
+.faq {
+  margin: 50px 0px;
+}
+.qustion {
+  padding: 10px 10px;
+  background-color: #ff9a3c;
+  width: fit-content;
+  border-radius: 0px 10px 10px 0px;
+  font-weight: 800;
+}
+.answer {
+  padding: 10px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
 .contact {
   padding: 5px;
   margin: 10px;
