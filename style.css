@@ -75,6 +75,9 @@ p {
   font-weight: 800;
   font-size: 16pt;
 }
+.groceryDesc {
+  text-align: center;
+}
 footer {
   background-color: #ff9a3c;
   padding: 5px;
